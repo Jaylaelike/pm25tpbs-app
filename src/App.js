@@ -6,7 +6,7 @@ import TextField from "@mui/material/TextField";
 import Autocomplete from "@mui/material/Autocomplete";
 import { Button } from "@mui/material";
 
-const options = ["NOC", "chumphon"];
+const options = ["NOC", "chumphon", "huahin", "Nongchok"];
 // import keys from "./keys";
 
 // const api = {
